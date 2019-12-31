@@ -19,12 +19,13 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*4)+ 1);
+var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
 if(x=="1"){xxx="why-you-need-all-in-one-staffing-and.html"}
 if(x=="2"){xxx="collaborating-in-office-365-what-is.html"}
 if(x=="3"){xxx="5-reasons-why-mario-is-so-popular.html"}
-if(x=="4"){xxx="7-tips-to-help-you-buy-cheap-motorcycle.html"}a_to_ve[i].href="https://tentangkitatersantuy.blogspot.com/2019/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="7-tips-to-help-you-buy-cheap-motorcycle.html"}
+if(x=="5"){xxx="7-good-reasons-to-invest-in-functional.html"}a_to_ve[i].href="https://santuy.tentangkita.xyz/2019/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
